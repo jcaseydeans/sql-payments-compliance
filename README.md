@@ -11,7 +11,7 @@ daily settlements. No real company or customer data is used.
 ## Progress
 | Module | Topic | Status |
 |---|---|---|
-| 01 | First queries: SELECT, WHERE, ORDER BY, LIMIT, DISTINCT | ✅ Complete |
+| 01 | [First queries](module-01-first-queries.sql): SELECT, WHERE, ORDER BY, LIMIT, DISTINCT | ✅ Complete |
 | 02 | Filtering | In progress |
 
 ## Goal
