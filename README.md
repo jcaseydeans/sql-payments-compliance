@@ -12,7 +12,8 @@ daily settlements. No real company or customer data is used.
 | Module | Topic | Status |
 |---|---|---|
 | 01 | [First queries](module-01-first-queries.sql): SELECT, WHERE, ORDER BY, LIMIT, DISTINCT | ✅ Complete |
-| 02 | Filtering | In progress |
+| 02 | [Filtering](module-02-filtering.sql): AND/OR, <>, IN, BETWEEN, LIKE, IS NULL | ✅ Complete |
+| 03 | Summarizing | Up next |
 
 ## Goal
 Build toward a compliance reporting package: Nacha ACH return rate monitoring,
